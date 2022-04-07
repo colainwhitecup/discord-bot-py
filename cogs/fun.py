@@ -25,4 +25,4 @@ class fun(Cog_Extension):
 
 
 def setup(bot):
-  bot.add_cog(fun(bot))
+  bot.add_cog(fun(bot)) 
