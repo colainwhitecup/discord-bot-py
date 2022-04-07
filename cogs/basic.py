@@ -30,7 +30,7 @@ class basic(Cog_Extension):
            await ctx.send('<@905704151269380158>')
     
  @commands.command()
- async def hi(self, ctx):
+ async def hi(self, ctx): 
     embed=discord.Embed(title="hi", url="discord.com", description="go into the link", color=0xFF5733)
     await ctx.send(embed=embed)
 
