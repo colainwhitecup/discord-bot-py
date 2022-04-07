@@ -51,5 +51,5 @@ class mod(Cog_Extension):
   await ctx.send (f'Message sent to {user.mention}')
 
    
-def setup(bot):
+def setup(bot): 
   bot.add_cog(mod(bot))
