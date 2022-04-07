@@ -85,6 +85,6 @@ for filename in os.listdir('./cogs'):
         bot.load_extension(F'cogs.{filename[:-3]}')     
 if __name__ == "__main__": 
 
- bot.run('OTIyNzY2MzYxMjA4NDIyNDYy.YcGPJA.Z8D5_nRDgAvrhP4NtMWHeXtZnNY') 
+ bot.run('Your token here ') 
 
-bot.run('OTIyNzY2MzYxMjA4NDIyNDYy.YcGPJA.Z8D5_nRDgAvrhP4NtMWHeXtZnNY') 
+bot.run('Your token here') 
